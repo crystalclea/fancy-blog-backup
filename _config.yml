@@ -6,9 +6,6 @@ bio: 'Vlogger, traveller, dreamer'
 external-image: false
 picture: 'http://www.hercampus.com/sites/default/files/2015/10/20/taylor-swift_press-2013-650.jpg'
 
-url: http://koppl.in/indigo
-# your url: http://USERNAME.github.io
-
 permalink: /:title/
 
 markdown: kramdown
